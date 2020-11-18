@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ySokr70NyFVD87NwP/hItNfzWRE+GqWQEhdMvx9Bj1/tdGPVR9qtQ2B/J+5XAbRCSWMOy9ohkmcpBIY9Nmk/Fg==",
+  "success": true,
+  "projectFilePath": "C:\\KSBTracker-main\\KSBTracker-main\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

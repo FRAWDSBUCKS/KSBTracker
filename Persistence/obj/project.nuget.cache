@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VJNxZbu/g+8Uhl+XpFzhjcd99d3bb8KnvaRXnt21q3DmRHE3axQd57VEEM4fyyTlkYBcAzlyji0Fgz1pAg1BA==",
+  "success": true,
+  "projectFilePath": "C:\\KSBTracker-main\\KSBTracker-main\\Persistence\\Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
